@@ -79,9 +79,7 @@ python3 script.py
 **Shell Generation:** Leveraging Metasploit Framework to generate shellcode for exploitation. (NC Session)
 **Exploitation:** Using calculated offsets and shellcode to exploit a vulnerable system.
 
-## Detailed Description of the delivery methods
-
-### Five Innovative Data Delivery Methods
+### Detailed Description of the delivery methods
 
 **Method 1:** Basic Send with Newline: This method appends a newline character to the data before sending it. It's particularly useful for protocols that require newline-terminated inputs. The simplicity of Method 1 makes it an excellent starting point for initial fuzzing attempts.
 
