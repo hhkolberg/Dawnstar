@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/hhkolberg/Dawnstar/Dawnstar_logo.png">
-
+![Dawnstar Logo](https://raw.githubusercontent.com/hhkolberg/Dawnstar/a1506e2704194520ba6aa562a0700218c51132b9/Dawnstar_logo.png)
 
 ```
  ______   _______           _        _______ _________ _______  _______ 
